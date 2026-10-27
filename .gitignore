@@ -1,0 +1,16 @@
+# Local environment
+.env
+
+# Clone of the book's companion repo (has its own git history)
+book-repo/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+*.swp
+
+# Dumps and exports produced during exercises
+*.dump
+*.sql.gz
+backups/
